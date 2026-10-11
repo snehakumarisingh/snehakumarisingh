@@ -13,7 +13,7 @@
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
 -  Computer Science and Engineering student.
 -  Interested in Java and backend development.
@@ -22,18 +22,12 @@
 -  Continuously improving my coding and software development skills.
 
 
-### 💻 Projects
+###  Projects
 
 Explore my repositories to see what I'm building and learning.
 
 [View all repositories →](https://github.com/snehakumarisingh?tab=repositories)
 
-## 🎯 Current Goals
-
-- Strengthen Java and backend development fundamentals.
-- Practise DSA and improve problem-solving.
-- Build maintainable projects with clear documentation.
-- Learn and apply industry-standard development practices.
 
 ---
 
