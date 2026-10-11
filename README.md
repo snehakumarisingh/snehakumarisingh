@@ -21,14 +21,6 @@
 -  Learning to build applications with database connectivity and clean architecture.
 -  Continuously improving my coding and software development skills.
 
-
-###  Projects
-
-Explore my repositories to see what I'm building and learning.
-
-[View all repositories →](https://github.com/snehakumarisingh?tab=repositories)
-
-
 ---
 
 <div align="center">
