@@ -62,7 +62,7 @@ An application designed to manage employee information and simplify employee rec
 
 A project focused on organizing job applications by company, job role, application date, and status. It includes API operations for managing application records and validating status values.
 
-**Tech Stack:** Java · REST API · Springboot
+**Tech Stack:** Java · REST API · Springboot · MySQL · Spring Data JPA
 
 [🔗 View Project](https://github.com/snehakumarisingh/job-tracker)
 
